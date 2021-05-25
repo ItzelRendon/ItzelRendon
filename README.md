@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItzelRendon
 - 👀 I’m interested in Web Programming (Frontend & Backend)
 - 👩🏽‍💻 I’m currently working really hard.
-- 📫 How to reach me at my e-mail itzel.rendon.coronel@gmail.com
+- 📫 Reach me at my e-mail itzel.rendon.coronel@gmail.com
 
 <!---
 ItzelRendon/ItzelRendon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
