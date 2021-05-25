@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzelRendon
 - 👀 I’m interested in Web Programming (Frontend & Backend)
-- 👩🏽‍💻 I’m currently working in a online shop.
+- 👩🏽‍💻 I’m currently working really hard.
 - 📫 How to reach me at my e-mail itzel.rendon.coronel@gmail.com
 
 <!---
